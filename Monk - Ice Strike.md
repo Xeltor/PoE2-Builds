@@ -3,10 +3,10 @@ The Freeze Monk is a fast-paced, highly offensive build that focuses on freezing
 
 ---
 
-### **Youtube video**
+#### **Youtube video**
 - https://www.youtube.com/watch?v=rMOK1R8jn28
 
-### **Passive skill tree**
+#### **Passive skill tree**
 - https://maxroll.gg/poe2/passive-tree/cat003cu
 
 ---
