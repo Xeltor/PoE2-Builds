@@ -3,6 +3,14 @@ The Freeze Monk is a fast-paced, highly offensive build that focuses on freezing
 
 ---
 
+### **Youtube video**
+- https://www.youtube.com/watch?v=rMOK1R8jn28
+
+### **Passive skill tree**
+- https://maxroll.gg/poe2/passive-tree/cat003cu
+
+---
+
 ### **Pros and Cons**
 #### **Pros:**
 - Incredible clear speed with constant freezing and shattering.
@@ -17,9 +25,6 @@ The Freeze Monk is a fast-paced, highly offensive build that focuses on freezing
 - Suboptimal for maps with low monster density.
 
 ---
-
-### **Passive skill tree**
-- https://maxroll.gg/poe2/passive-tree/cat003cu
 
 ### **Core Mechanics**
 1. **Ice Strike**: The primary damage skill. Hits with Ice Strike are powerful and freeze enemies. It synergizes with Herald of Ice for shattering explosions and benefits from crit scaling.
